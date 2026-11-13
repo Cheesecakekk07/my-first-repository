@@ -1,1 +1,3 @@
-My first repository
+- Favorite book: Bible
+- Favorite movie: Waves (2019) by Trey Edward Shults
+- Favorite series: Snowfall
